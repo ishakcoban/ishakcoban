@@ -1,7 +1,7 @@
-<h1 align="end">Hi 👋, I'm İshak</h1>
-<h3 align="end">A passionate software developer from Turkey</h3>
-<h3 align="end">Some personal links about me:</h3>
-<p align="end">
+<h1 align="center">Hi 👋, I'm İshak</h1>
+<h3 align="center">A passionate software developer from Turkey</h3>
+<h3 align="center">Some personal links about me:</h3>
+<p align="center">
 <a href="https://instagram.com/ishakcbn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishakcbn" height="30" width="40" /></a>
 <a href="https://www.figma.com/@ishakcbn" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
          alt="ishakcbn" height="30" width="40" /></a>
